@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EthanWHarvey
--🧿 I’m interested in Basketball
-- 🌱 I’m currently learning Java
+-🧿 I’m interested in basketball, coding, and learning! 
+- 🌱 I’m currently learning Java, Solidity, Python, and Javascript
 - 📫 How to reach me xethanharvey@gmail.com
 
 <!---
