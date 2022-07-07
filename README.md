@@ -1,10 +1,12 @@
-### Hi there 👋, I'm Ethan
+### Hi there, I'm Ethan
+
 #### I’m a Student and Developer!
+
 💻 - I'm currently learning Solidity, JavaScript, Tailwind, Ethers.js, and much more!
 
 👨🏻‍🎓 - I'm a second-year student at the University of Colorado Colorado Springs where I'm pursuing a BS in Computer Science
 
-✸- Fun fact: I am learning Japanese and I love basketball and Formula 1! 
+✸ - Fun fact: I am learning Japanese and I love basketball and Formula 1! 
 
 Skills: SOLIDITY / REACT / JAVASCRIPT / HARDHAT / TAILWIND CSS / ETHERS.JS / JAVA
 
