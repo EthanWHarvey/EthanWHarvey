@@ -1,14 +1,15 @@
-### Hi, there I'm Ethan
+### Hi there 👋, I'm Ethan
+#### I’m a Student and Developer!
+💻 - I'm currently learning Solidity, JavaScript, Tailwind, Ethers.js, and much more!
+👨🏻‍🎓 - I'm a second-year student at the University of Colorado Colorado Springs where I'm pursuing a BS in Computer Science
 
-## I’m a Student and Developer!
+Skills: SOLIDITY / REACT / JAVASCRIPT / HARDHAT / TAILWIND CSS / ETHERS.JS / JAVA
 
-- I'm currently learning Solidity, JavaScript, Tailwind, Ethers.js, and much more!
-- I'm a second year student at the Univeristy of Colorado Colorado Springs where I'm pursuing a BS in Computer Science
-- Currently I'm looking to get my first developing job!
-- Fun fact: I love basketball / Formula 1 and am learning Japanese
+- ⚡ Fun fact: I am learning Japanese and I love basketball and Formula 1! 
 
-<br />
 
-### Languages and Tools:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EthanWHarvey)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ethan-harvey-88a562237/)  
 
-[<img align="left" alt="Solidity" width="26px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" />]
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+
+
