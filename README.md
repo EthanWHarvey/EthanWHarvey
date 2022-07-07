@@ -1,4 +1,4 @@
-### Hi there, I'm Ethan
+### Hi there, I'm Ethan!
 
 #### I’m a Student and a Blockchain / Full-Stack / Solidity Developer!
 
