@@ -11,4 +11,4 @@
 
 ### Languages and Tools:
 
-[img align="lef" alt="Solidity" width="26px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" />]
+[<img align="left" alt="Solidity" width="26px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" />]
