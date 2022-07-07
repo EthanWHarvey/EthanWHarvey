@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @EthanWHarvey
--🧿 I’m interested in basketball, coding, and learning! 
-- 🌱 I’m currently learning Java, Solidity, Python, and Javascript
-- 📫 How to reach me xethanharvey@gmail.com
+### Hi, there Ethan
 
-<!---
-EthanWHarvey/EthanWHarvey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## I’m a Student and Developer!
+
+- I'm currently learning Solidity, JavaScript, Tailwind, Ethers.js, and much more!
+- Currently I'm looking to get my first developing job!
+- Fun fact: I love basketball / Formula 1 and am learning Japanese
