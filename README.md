@@ -1,6 +1,6 @@
 ### Hi there, I'm Ethan!
 
-#### I’m a Student and a Blockchain / Full-Stack / Solidity Developer!
+#### I’m a Student and a Blockchain / Front-end Developer!
 
 💻 - I'm currently learning Solidity, JavaScript, Tailwind, Ethers.js, and much more!
 
